@@ -3,8 +3,6 @@
 
 # In this project, I analyzed Amazon product data to understand product performance, ratings, discounts, and customer reviews.
 # I also built an interactive dashboard using Streamlit to visualize the data and generate insights.
-# ===========================================================================================================================================
-
 
 #                                   🔍 Key Insights
 
@@ -15,8 +13,6 @@
 # Products with higher ratings generally receive more customer reviews.
 
 # Some categories have more popular products compared to others.
-
-# ===========================================================================================================================================
 
 #                                      🛠 Tech Stack
 
@@ -31,7 +27,6 @@
 # Scikit-learn
 
 # TextBlob
-# ===========================================================================================================================================
 
 
 #                                    📈 Dashboard Features
@@ -66,10 +61,9 @@
 
 # Interactive Filters (Slicer)
 
-# ===========================================================================================================================================
-
 
 #                                            🎯 Conclusion
 
 # This project shows how data analysis and visualization can be used to understand product performance and customer feedback 
+
 # in an e-commerce dataset.
